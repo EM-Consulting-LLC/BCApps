@@ -343,7 +343,9 @@ src/Views/**
 
 # Personal AI tooling symlinked from bc-agentic-workspace (managed by Sync-AIInstructions)
 # Claude Code
-.claude/skills/
+.claude/skills/*
+# business-central-code-review skill бол repo-д хадгалагдах deliverable (personal tooling биш)
+!.claude/skills/business-central-code-review/
 .claude/rules/
 .claude/agents/
 .claude/commands/
