@@ -1,0 +1,34 @@
+{
+  "id": "d2850073-ae29-40b6-989a-52851f9b9429",
+  "name": "MSD Driver App",
+  "publisher": "EM Consulting LLC",
+  "version": "1.0.0.0",
+  "brief": "MSD Delivery - Mobile Execution Layer (Driver App) prototype.",
+  "description": "Prototype of the MSD driver app on the Business Central mobile client: Delivery Batch load, start with helpers, stop-by-stop Fully / Partially / Cancel registration with geofence check, background invoice posting, automatic Sales Return Order, finish and DELIVERED confirmation.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
